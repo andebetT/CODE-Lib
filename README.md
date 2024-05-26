@@ -1,4 +1,4 @@
-# CODE-Library
+# Code-Library
 ## Comprehensive Python DSA Solutions
 This GitHub repository contains 4 comprehensive modules that cover a wide range of data structures and algorithms (DSA) solved using Python. The problems are sourced from popular coding platforms such as HackerRank, LeetCode, InterviewBit, and more. In addition to the DSA problem solutions, the repository also includes implementations of various data structures like stacks, queues, trees, linked lists, arrays, and graphs.
 
